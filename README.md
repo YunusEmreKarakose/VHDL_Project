@@ -42,6 +42,7 @@ EQUAL|**11000** 3BitRAdr/3Bit RAdr/3Bit RAdr | r(x) ?= r(y) => r(z)
 (MAdr:Memory Adress , RAdr:Register Adress) 
 
 ## Example ROM Program
+Rom program is included in "313965_proccesor.vhd". Compilation and simulation can be done with the "313965.do" script 
 
 ROM LINE | INSTRUCTION
 ---------|-----------
