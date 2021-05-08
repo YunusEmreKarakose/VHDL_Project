@@ -66,5 +66,5 @@ ROM LINE | INSTRUCTION
 15=>”0001110000100000” | MOVEMR M(4)=>R(4)
 16=>”0110001110010100” | ADD R(3) R(4) => R(5)
 
-## Presantation && Simulation(Turkish)
+## Presentation && Simulation(Turkish)
 https://www.youtube.com/watch?v=9hDlRdZL3WU
